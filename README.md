@@ -10,3 +10,5 @@ http://<ip_address>:3389
 Username: root
 Password: PaSSwOrD
 ```
+
+Thanks [https://github.com/c9/core](https://github.com/c9/core).
